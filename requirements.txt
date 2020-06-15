@@ -2,3 +2,4 @@ Flask==1.1.2
 pubnub==4.5.1
 cryptography==2.9.2
 Flask-Cors==3.0.8
+gunicorn==20.0.4
